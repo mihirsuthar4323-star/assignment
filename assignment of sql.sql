@@ -50,13 +50,13 @@ Avoids storing duplicate data
 INNER JOIN
 Returns only matching records from both tables
 
-LEFT JOIN (LEFT OUTER JOIN)
+LEFT JOIN
 Returns all records from left table + matching from right
 
-RIGHT JOIN (RIGHT OUTER JOIN)
+RIGHT JOIN
 Returns all records from right table + matching from left
 
-FULL JOIN (not directly supported in MySQL)
+FULL JOIN
 Returns all records from both tables
 
 
